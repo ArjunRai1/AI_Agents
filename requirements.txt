@@ -1,0 +1,4 @@
+smolagents
+ddgs
+ipykernel
+ipywidgets
